@@ -34,7 +34,7 @@
     <Reference Include="System" />
     <Reference Include="Phidget21.NET, Version=2.1.7.16, Culture=neutral, PublicKeyToken=c2b1f2a3594bce52">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\mnt\backup\svn\lib\Phidget21.NET\Phidgets\Phidget21.NET.dll</HintPath>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\lib\Phidget21.NET\Phidget21.NET.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
