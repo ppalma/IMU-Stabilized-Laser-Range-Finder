@@ -18,7 +18,8 @@ namespace IMUStabilizedLaserRangeFinder
 				
 				Console.WriteLine("Press any key to end");
 				spatial.Initialization();
-				spatial.SpatialAccChanged += new SpatialAccChangeEventHandler(GoStable);
+//				spatial.
+//				spatial.SpatialAccChanged += new SpatialAccChangeEventHandler(GoStable);
 //				GoStable();	
 //					servo.servos[0].Position = 60;
 //					System.Threading.Thread.Sleep(1000);

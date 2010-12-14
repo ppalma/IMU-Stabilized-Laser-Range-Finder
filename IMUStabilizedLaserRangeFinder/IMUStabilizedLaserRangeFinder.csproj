@@ -36,6 +36,26 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\mnt\backup\svn\lib\Phidget21.NET\Phidget21.NET.dll</HintPath>
     </Reference>
+    <Reference Include="MBF.Math, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\monoBOTICS\Debug\Linux\MBF.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Core, Version=0.3.249.0, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\monoBOTICS\Debug\Linux\ISE.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.System, Version=0.3.3959.31717, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\monoBOTICS\Debug\Linux\ISE.System.dll</HintPath>
+    </Reference>
+    <Reference Include="MBF.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\monoBOTICS\Debug\Linux\MBF.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MBF.Sensors, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\mnt\backup\svn\monoBOTICS\Debug\Linux\MBF.Sensors.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />

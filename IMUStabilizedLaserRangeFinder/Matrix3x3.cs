@@ -2,8 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace IMUStabilizedLaserRangeFinder
+namespace ﻿IMUStabilizedLaserRangeFinder
 {
+//	class Matrix:Matrix3x3{}
     class Matrix3x3
     {
         public double[,] matrix;
