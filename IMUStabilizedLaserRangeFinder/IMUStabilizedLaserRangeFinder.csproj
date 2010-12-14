@@ -41,6 +41,8 @@
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="ImprovedSpatial.cs" />
+    <Compile Include="Matrix3x3.cs" />
+    <Compile Include="Vector3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
