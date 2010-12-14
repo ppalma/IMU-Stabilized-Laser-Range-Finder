@@ -3,15 +3,16 @@
   <MonoDevelop.Ide.DebuggingService>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService>
-  <MonoDevelop.Ide.Workbench ActiveDocument="IMUStabilizedLaserRangeFinder/Main.cs" ctype="Workbench">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IMUStabilizedLaserRangeFinder/ImprovedSpatial.cs" ctype="Workbench">
     <Files>
-      <File FileName="IMUStabilizedLaserRangeFinder/Main.cs" Line="32" Column="5" />
+      <File FileName="IMUStabilizedLaserRangeFinder/ImprovedSpatial.cs" Line="43" Column="5" />
+      <File FileName="IMUStabilizedLaserRangeFinder/Main.cs" Line="92" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="IMUStabilizedLaserRangeFinder" expanded="True">
-            <Node name="References" expanded="True" selected="True" />
+            <Node name="ImprovedSpatial.cs" selected="True" />
           </Node>
         </State>
       </Pad>
