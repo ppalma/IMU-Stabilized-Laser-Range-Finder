@@ -84,7 +84,7 @@ namespace IMUStabilizedLaserRangeFinder
             Console.WriteLine(e.Description);
         }
 
-        //Position CHange event handler...display which motor changed position and 
+        //Position CHange event handler...display which motor d(o.o)b changed position and 
         //its new position value to the console
         static void servo_PositionChange(object sender, PositionChangeEventArgs e)
         {
